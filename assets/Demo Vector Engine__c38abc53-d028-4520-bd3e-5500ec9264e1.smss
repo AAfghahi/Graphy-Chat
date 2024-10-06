@@ -1,0 +1,14 @@
+#Base Properties
+PROJECT	c38abc53-d028-4520-bd3e-5500ec9264e1
+PROJECT_ALIAS	Demo Vector Engine
+PROJECT_TYPE	prerna.project.impl.Project
+PROJECT_ENUM_TYPE	CODE
+PUBLIC_HOME_ENABLE	true
+PORTAL_NAME	
+RDBMS_INSIGHTS	project/@PROJECT@/insights_database
+RDBMS_INSIGHTS_TYPE	H2_DB
+DRIVER	org.h2.Driver
+RDBMS_TYPE	H2_DB
+USERNAME	sa
+PASSWORD	
+CONNECTION_URL	jdbc:h2:nio:@BaseFolder@/project/Demo Vector Engine__c38abc53-d028-4520-bd3e-5500ec9264e1/insights_database;query_timeout=180000;early_filter=true;query_cache_size=24;cache_size=32768

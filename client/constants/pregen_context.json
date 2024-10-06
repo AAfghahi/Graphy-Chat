@@ -1,0 +1,90 @@
+
+{
+    "GENERAL": [
+      {
+        "prompt_id": 1,
+        "prompt": "Answer the questions as per numbers",
+        "context": "A proposal summary, in around 50-100 words, briefly introduces the proposal's purpose and objectives, highlights its benefits and approach, outlines key milestones and budget, and concludes with a clear call to action, providing a concise overview that entices readers to explore the full proposal for in-depth details and consideration. For the given proposal, answer the following questions : (1) Provide a summary of the proposal. (2) Indicate strengths and weaknesses of the proposal. (3) Which section from the proposal is the summary obtained."
+      },
+      {
+        "prompt_id": 2,
+        "prompt": "Answer the questions as per numbers",
+        "context": "Defining roles and responsibilities in a proposal promotes clarity, accountability, efficiency, and effective project management, contributing to the proposal's success. For the given proposal, answer the following questions : (1) What are the proposal's roles and responsibilities? (2) Which section from the proposal is previous question obtained from? "
+      },
+      {
+        "prompt_id": 3,
+        "prompt": "Answer the questions as per numbers",
+        "context": "In the proposal, potential dispute resolution mechanisms can be addressed by outlining a clear process for conflict resolution. This may include identifying a designated mediator, specifying steps for dispute escalation, and emphasizing the importance of open communication to swiftly address and resolve any issues that may arise during the project. For the given proposal, answer the following questions: (1) What are the proposal dispute resolution mechanisms? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 4,
+        "prompt": "Answer the questions as per numbers",
+        "context": " The proposal should describe how the success of the proposal will be measured and what key performance indicators (KPIs) will be used. For the given proposal, answer the following questions: (1) How the proposal described on how the success of the proposal be evaluated?  (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 5,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should list expected deliverables and milestones to provide a clear project timeline and objectives.  For the given proposal, answer the following questions: (1) How has the proposal mentioned expected deliverables and milestones of the project? (2) If found, which section from the proposal is previous question obtained from? "
+      },
+      {
+        "prompt_id": 6,
+        "prompt": "Answer the questions as per numbers",
+        "context": "A proposal must include resource requirements, such as financial, human, and technological resources, to provide a comprehensive understanding of feasibility, accountability, and planning for successful execution.   For the given proposal, answer the following questions: (1) What resources—financial, human, technological—will be required to execute the proposal? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 7,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should address potential challenges that might hinder the proposal's implementation. This could include factors like regulatory changes, technical limitations, or resource constraints. Outline plans to mitigate these challenges. For the given proposal, answer the following questions: (1) What are the proposal's potential roadblocks or challenges that might hinder the implementation of the proposal? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 8,
+        "prompt": "Answer the questions as per numbers",
+        "context": "A comprehensive risk assessment is a critical component of any project or business proposal. It helps identify potential threats and challenges that could impact the success of the proposal and the associated project. For the given proposal, answer the following questions: (1) What  comprehensive risk assessments have been conducted for the proposal's potential internal and external risks? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 9,
+        "prompt": "Answer the questions as per numbers",
+        "context": "Address potential ethical concerns in a proposal by ensuring transparent data practices, obtaining informed consent, reducing bias in algorithms, and implementing strong data security measures. For the given proposal, answer the following questions: (1) What are the potential ethical dilemmas or concerns arising from the proposal that have been addressed?  (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 10,
+        "prompt": "Answer the questions as per numbers",
+        "context": "A proposal should include data preparation details (e.g., cleaning, encoding) to ensure transparency, assess feasibility, mitigate risks, enable reproducibility, and aid decision-making in data-related projects. For the given proposal, answer the following questions: (1) How has the proposal described data preparation process (e.g., cleaning, encoding, etc) ? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 11,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should describe exploratory data analysis and its potential impact on the model, highlighting how understanding data patterns and relationships can inform modeling decisions. For the given proposal, answer the following questions: (1) How has the proposal explained exploratory data analysis and how this might affect model? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 12,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should outline the training and testing methods to be employed, specifying how data will be divided, the algorithms or models to be used, and the evaluation metrics to assess model performance, ensuring clarity and alignment with project objectives. For the given proposal, answer the following questions: (1) How has the proposal described training and testing methods to be used? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 13,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should provide a comprehensive explanation of how model performance will be assessed. This includes specifying evaluation metrics, cross-validation techniques, hypothesis tests, and any other relevant methods to ensure rigorous and effective assessment of model accuracy and reliability. For the given proposal, answer the following questions: (1) How has the proposal detailed how model performance will be assessed (e.g, describe metrics, tests, etc.) (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 14,
+        "prompt": "Answer the questions as per numbers",
+        "context": "The proposal should include a detailed strategy for identifying and mitigating data leakage in the predictive model development process. This entails explaining how data separation, feature engineering, and validation procedures will be employed to prevent any unintentional information flow from the test set to the training set. For the given proposal, answer the following questions: (1) If developing a predictive model, how has the proposal described how we'll check and correct for data leakage? (2) If found, which section from the proposal is previous question obtained from"
+      },
+      {
+        "prompt_id": 15,
+        "prompt": "Answer the questions as per numbers",
+        "context": "Solution explainability will help client effectively implement the proposed solution.  For the given proposal, answer the following questions: (1) If developing a predictive model,  does the model  require/include explainability for effective usage by client and stakeholders? (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 16,
+        "prompt": "Answer the questions as per numbers",
+        "context": "More detail regarding the tools/platforms for AI, will provide comfort to the client to indicate that we have the needed experience. For the given proposal, answer the following questions: (1) If developing a predictive model, what are the AI-related tools/platforms that will be required to develop the application (e.g., Sagemaker, Streamlit, etc.)?  (2) If found, which section from the proposal is previous question obtained from?"
+      },
+      {
+        "prompt_id": 17,
+        "prompt": "Answer the questions as per numbers",
+        "context": "Understanding the client's data is critical for developing a solution in the proposal.  For the given proposal, answer the following questions: (1) Does the response describe how client data will be ingested and methodologies used to analyze different types of data (e.g, structured vs. unstructured)?  (2) If found, which section from the proposal is previous question obtained from?"
+      }
+    ]
+  }
